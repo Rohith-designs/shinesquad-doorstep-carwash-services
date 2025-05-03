@@ -45,7 +45,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/car-wash-platform.git
+git clone https://github.com/Rohith_designs/shinesquad-doorstep-carwash-services.git
 cd car-wash-platform
 Set Up XAMPP:
 
